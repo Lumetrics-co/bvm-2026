@@ -1,0 +1,2075 @@
+{
+ "Hero": {
+  "ariaLabel": "Bharatiya Vyapar Mahotsav 2026 — hero",
+  "usp": "India's Largest Multi-Sectoral Business Expo of Bharatiya Brands",
+  "titleLine1": "Bharatiya Vyapar",
+  "titleLine2": "Mahotsav '26",
+  "celebratingIconAlt": "The Great Indian Common Market",
+  "tagline": "Made in India. Made for India. Made for the World.",
+  "dateRange": "{startDay, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} Aug to {endDay, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} Aug {year}",
+  "venue": "Bharat Mandapam, Pragati Maidan, New Delhi",
+  "countdownHeading": "Event Starts in",
+  "countdown": {
+   "days": "Days",
+   "hours": "Hours",
+   "minutes": "Minutes",
+   "seconds": "Seconds"
+  },
+  "eventTimings": {
+   "heading": "Event Timings",
+   "delegate": "Business Delegates",
+   "delegateHours": "10 AM – 7 PM",
+   "visitor": "Visitors",
+   "visitorHours": "3 PM – 7 PM"
+  },
+  "registrationFor": "Registration For",
+  "registerOptions": {
+   "exhibitor": "Exhibitor",
+   "delegate": "Business Delegate",
+   "speaker": "Speaker",
+   "visitor": "Visitor"
+  },
+  "registerMenuLabel": "Registration options",
+  "attribution": {
+   "line1": "In Pursuance of the Vision of",
+   "line2": "the Hon'ble Prime Minister of India"
+  },
+  "pmName": "Shri Narendra Modi",
+  "pmPhotoAlt": "Shri Narendra Modi"
+ },
+ "LanguageSwitcher": {
+  "label": "Language",
+  "english": "EN",
+  "hindi": "हिं"
+ },
+ "Navbar": {
+  "logoAlt": "Bharatiya Vyapar Mahotsav 2026",
+  "itpoAlt": "ITPO",
+  "caitAlt": "CAIT",
+  "jointInitiative": "A joint initiative of ITPO & CAIT",
+  "toggleMenu": "Toggle menu",
+  "links": {
+   "about": "About",
+   "zones": "Zones",
+   "sectors": "Sectors",
+   "whyBvm": "Why BVM",
+   "mission": "Mission",
+   "partners": "Partners",
+   "eventScale": "Event Scale",
+   "aboutOrganizer": "About Organizer",
+   "announcements": "Announcements"
+  },
+  "bookYourHotel": "Book Your Travel",
+  "exhibitorLogin": "Exhibitor Login",
+  "aboutBise": "About BISE",
+  "registration": {
+   "button": "Registration For",
+   "options": {
+    "exhibitor": "Exhibitor",
+    "delegate": "Business Delegate",
+    "speaker": "Speaker",
+    "visitor": "Visitor"
+   }
+  },
+  "virtualExpo": "Virtual Expo"
+ },
+ "MenuOverlay": {
+  "titleLine1": "Bharatiya Vyapar",
+  "titleLine2": "MAHOTSAV 26",
+  "downloadBrochure": "DOWNLOAD BROCHURE",
+  "pressRelease": "PRESS RELEASE",
+  "pressReleaseComingSoonAria": "Press release — coming soon",
+  "pressReleaseComingSoonTitle": "Coming soon",
+  "closeMenu": "Close menu",
+  "columns": {
+   "exhibition": {
+    "title": "Exhibition",
+    "links": {
+     "exhibitorProfile": "Exhibitor Profile",
+     "spaceBookingForm": "Space Booking Form",
+     "brochure2026": "2026 Brochure",
+     "floorPlan": "Floor Plan",
+     "postShowReport2025": "2025 Post Show Report",
+     "participants2025": "2025 List of Participants"
+    }
+   },
+   "visitor": {
+    "title": "Visitor",
+    "links": {
+     "visitorProfile": "Visitor Profile",
+     "visitorRegistration": "Visitor Registration",
+     "venueDates": "Exhibition Venue & Dates",
+     "travelReimbursement": "Travel Reimbursement"
+    }
+   },
+   "conference": {
+    "title": "Conference",
+    "links": {
+     "speakerRegistration": "Speaker Registration",
+     "advisoryBoard": "Advisory Board",
+     "conferenceProgramme": "Conference Programme",
+     "eminentSpeakers": "Eminent Speakers",
+     "delegateRegistration": "Delegate Registration",
+     "sessionsVideoLibrary": "Sessions Video Library"
+    }
+   },
+   "endorsements": {
+    "title": "Endorsements",
+    "links": {
+     "partners": "Partners",
+     "support": "Support",
+     "supportingAssociations": "Supporting Associations",
+     "mediaPartners": "Media Partners"
+    }
+   }
+  }
+ },
+ "Footer": {
+  "logoAlt": "BVM Logo",
+  "importantResources": "Important Resources",
+  "viewStallPricing": "View Stall Pricing",
+  "bharatInnovationStartupExchange": "Bharat Innovation and Startup Exchange",
+  "bookFlightsAndHotels": "Book Your Travel",
+  "contactBvm": "Contact BVM secretariat",
+  "address": "501, Yamuna Apartments, Dr Bishambar Das Marg, Baba Kharak Singh Marg Area, New Delhi, Delhi 110001",
+  "copyright": "© 2026 Bharatiya Vyapar Mahotsav. All rights reserved.",
+  "privacyPolicy": "Privacy Policy",
+  "termsConditions": "Terms & Conditions",
+  "screenReaderAccess": "Screen Reader Access",
+  "cookiePreferences": "Cookie Preferences",
+  "closeGallery": "Close gallery",
+  "previousImage": "Previous image",
+  "nextImage": "Next image",
+  "gallery": {
+   "indianMarket": "Indian market",
+   "indiaGate": "India Gate",
+   "delhiArchitecture": "Delhi architecture",
+   "indianBazaar": "Indian bazaar",
+   "tajMahal": "Taj Mahal"
+  },
+  "virtualExpo": "Virtual Expo (3D)"
+ },
+ "AccessibilityToolbar": {
+  "buttonAria": "Accessibility options",
+  "dialogLabel": "Accessibility options",
+  "headerLabel": "Accessibility",
+  "textSize": "Text Size",
+  "contrast": "Contrast",
+  "cursor": "Cursor",
+  "readingFont": "Reading Font",
+  "default": "Default",
+  "bigCursor": "Big Cursor",
+  "dyslexia": "Dyslexia",
+  "highlightLinks": "Highlight Links",
+  "reduceMotion": "Reduce Motion",
+  "resetDefaults": "Reset to defaults",
+  "screenReaderAccess": "Screen reader access & compatibility →",
+  "contrastModes": {
+   "normalLabel": "Normal",
+   "normalHint": "Default theme",
+   "highLabel": "High Contrast",
+   "highHint": "Boosted contrast",
+   "lightLabel": "Light Mode",
+   "lightHint": "Light backgrounds"
+  }
+ },
+ "CookieConsentBanner": {
+  "dialogLabel": "Cookie consent",
+  "message": "We use cookies to understand how visitors interact with this site and to improve your experience. Analytics cookies are off by default and will only be enabled if you accept. See our ",
+  "privacyPolicy": "Privacy Policy",
+  "messageEnd": ".",
+  "reject": "Reject",
+  "accept": "Accept"
+ },
+ "FloatingButtons": {
+  "callUs": "Call us",
+  "callUsHeader": "Call Us",
+  "whatsappLabel": "WhatsApp",
+  "chatOnWhatsapp": "Chat on WhatsApp",
+  "scrollToTop": "Scroll to top",
+  "close": "Close",
+  "bookStall": "Book your stall",
+  "exhibitorEnquiry": "Exhibitor Enquiry"
+ },
+ "Providers": {
+  "skipToMainContent": "Skip to main content"
+ },
+ "SocialSidebar": {
+  "ariaLabel": "Social media",
+  "openInNewTab": "{label} (opens in new tab)",
+  "facebook": "Facebook",
+  "instagram": "Instagram",
+  "x": "X",
+  "linkedin": "LinkedIn",
+  "youtube": "YouTube",
+  "whatsapp": "WhatsApp"
+ },
+ "MarqueeBanner": {
+  "items": [
+   "Made in India",
+   "Made for India",
+   "Made for the World"
+  ]
+ },
+ "AboutSection": {
+  "ariaLabel": "About Bharatiya Vyapar Mahotsav 2026",
+  "pmMessageHeading": "Message from Prime Minister",
+  "pmMessageText": "यह जानकर प्रसन्नता हुई कि कॉन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स द्वारा 12 से 15 अगस्त, 2026 तक नई दिल्ली में 'भारतीय व्यापार महोत्सव-2026' का आयोजन किया जा रहा है। देश के विभिन्न राज्यों तथा विदेशों से इस आयोजन में भाग लेने वाले व्यापारियों, उद्यमियों, निवेशकों, प्रतिभागियों एवं आयोजकों को हार्दिक बधाई एवं शुभकामनाएं।",
+  "pmMessageLink": "Click here to read full message",
+  "pmPhotoAlt": "Shri Narendra Modi, Prime Minister of India",
+  "pmName": "Shri Narendra Modi",
+  "pmDesignation": "The Hon'ble Prime Minister of India",
+  "badge": "About Bharatiya Vyapar Mahotsav 2026",
+  "headingLine1": "India's Largest Multi-Sectoral",
+  "headingLine2": "Trade Expo",
+  "anchoredBy": "Anchored by",
+  "ministerName": "Shri Piyush Goyal",
+  "ministerPhotoAlt": "Shri Piyush Goyal",
+  "ministerDesignation": "Minister of Commerce and Industry, India",
+  "description1": "Bharatiya Vyapar Mahotsav (BVM) 2026 — India's largest Make-In-India multi-sectoral trade expo — is designed to bring together India's diverse business ecosystem under one roof, connecting traders, MSMEs, manufacturers, industry leaders, institutions, and policymakers from across the country.",
+  "description2": "More than a conventional exhibition, BVM enables meaningful business engagement through sector-focused zones, buyer–seller interactions, and knowledge sessions — showcasing the scale, diversity, and potential of Indian enterprise on a unified national platform.",
+  "supportedBy": "Supported by",
+  "ministryAlt": "Ministry of Commerce",
+  "ministryCaption": "Ministry of Commerce & Industry, Govt. of India",
+  "jointInitiative": "A joint initiative of ITPO & CAIT",
+  "itpoAlt": "ITPO",
+  "itpoCaption": "India Trade Promotion Organisation (A Govt. of India Enterprise)",
+  "caitAlt": "CAIT",
+  "caitCaption": "Confederation of All India Traders",
+  "hostState": "Host State",
+  "nctDelhiAlt": "NCT Delhi",
+  "nctDelhiCaption": "Govt. of National Capital Territory of Delhi",
+  "bookYourSpace": "Book Your Space"
+ },
+ "AboutOrganiserSection": {
+  "badge": "About the Organizer",
+  "headingLine1": "Lead Organizing",
+  "headingLine2": "Authority",
+  "itpoTitle": "India Trade Promotion Organisation",
+  "itpoP1": "Established in 1972, India Trade Promotion Organisation has been at the forefront of promoting trade and commerce in India. Operating under the Ministry of Commerce & Industry, Government of India, ITPO is headquartered at Bharat Mandapam in New Delhi.",
+  "itpoP2": "Over the span of 50 years, ITPO has carved a long-established legacy of excellence in the Indian MICE industry through its innovative and visionary approach to trade promotion. Equipped with state-of-the-art infrastructure and ICT systems, it is committed to showcasing India's strengths in trade and commerce, blending the best of global and local expertise.",
+  "moreInfo": "For More Information visit ",
+  "itpoLinkText": "www.itpo.gov.in",
+  "itpoAlt": "ITPO",
+  "caitTitle": "Confederation of All India Traders",
+  "caitP1": "The Confederation of All India Traders (CAIT) founded in year 1990 is a leading national organization representing the interests of over 9 crore traders and small businesses across India. Established with the goal of empowering the Indian trading community, CAIT has been at the forefront of advocating for policies that promote the growth and sustainability of small and medium-sized enterprises (SMEs), retailers, and traders.",
+  "caitP2": "With a vast network of over 40,000 trade associations, CAIT serves as the voice of Indian traders, working tirelessly to protect their rights, ensure fair trade practices, and drive policy reforms that foster business-friendly environments.",
+  "caitLinkText": "www.cait.in",
+  "caitAlt": "CAIT",
+  "speakers": [
+   {
+    "name": "Smt. Smriti Irani",
+    "role": "Advisor (CAIT), Ex- Cabinet Minister",
+    "location": "New Delhi"
+   },
+   {
+    "name": "Shri Praveen Khandelwal",
+    "role": "Secretary General, Member Of Parliament",
+    "location": "New Delhi"
+   },
+   {
+    "name": "Shri B. C. Bhartia",
+    "role": "President",
+    "location": "Maharashtra, Nagpur"
+   },
+   {
+    "name": "Shri Brij Mohan Agarwal",
+    "role": "Chairman",
+    "location": "Odisha, Rourkela"
+   }
+  ]
+ },
+ "AssociatePartnersSection": {
+  "ariaLabel": "Sector and work partners",
+  "badge": "Working Together",
+  "headingLine1": "Sector/Work",
+  "headingLine2": "Partners"
+ },
+ "AtmanirbhartaCTA": {
+  "marqueeItem": "Atmanirbharta in Action",
+  "connectHeading": "Connect with Buyers and Sellers.",
+  "connectSubheading": "Across India and the world. Grow your business.",
+  "bookYourSpace": "Book Your Space",
+  "exhibitorProfile": "Exhibitor Profile"
+ },
+ "B2BSection": {
+  "badge": "For Every Stakeholder",
+  "headingLine1": "Business",
+  "headingLine2": "to Business",
+  "subheading": "Designed For Every Stakeholder In India's Trade Ecosystem",
+  "cards": [
+   {
+    "title": "MSMEs & Manufacturers",
+    "description": "Connect with buyers, expand market reach, build partnerships"
+   },
+   {
+    "title": "Associations & Federations",
+    "description": "Showcase collective strength, represent members, find collaborators"
+   },
+   {
+    "title": "Rural Enterprises",
+    "description": "Access urban markets, gain visibility, grow sustainably"
+   },
+   {
+    "title": "Women Entrepreneurs",
+    "description": "Dedicated zone, networking, funding opportunities"
+   },
+   {
+    "title": "Cooperatives & SHGs",
+    "description": "Scale production, reach larger markets, build networks"
+   },
+   {
+    "title": "Youth & Start-ups",
+    "description": "Innovation platform, investor connections, mentorship"
+   },
+   {
+    "title": "International Trade Bodies",
+    "description": "Discover Indian excellence, establish trade partnerships"
+   },
+   {
+    "title": "Banks & Investors",
+    "description": "Identify opportunities, fund growth, expand portfolios"
+   },
+   {
+    "title": "State Gov Ministries & PSUs",
+    "description": "Showcase policies, support domestic industry, build partnerships"
+   }
+  ]
+ },
+ "Bvm2026Section": {
+  "iframeTitle": "Bharatiya Vyapar Mahotsav 2026"
+ },
+ "CommonMarketSection": {
+  "badge": "Celebrating Commerce",
+  "headingLine1": "The Great Indian",
+  "headingLine2": "Common Market",
+  "celebratingIconAlt": "Celebrating The Great Indian Common Market",
+  "paragraph1": "In Europe a Common Market came into being only in 1992 and was hailed as a major breakthrough. In India, we have had a ready Common Market from ever. It is perhaps the largest in the world in terms of the sheer number of transactions that take place, in goods and services. While there are estimates of market size in value, there is no measure of the transactions that take place. Its the real indicator of the exchange that takes place. Like the proverbial Akshayapatra, the market gives endlessly.",
+  "paragraph2Prefix": "The ",
+  "paragraph2Movement": "Bharatiya Vyapar Movement",
+  "paragraph2Rest": " is striving for a fair play in the marketplace, always. This means that sellers must have ease of access to the market. Buyers should have a choice of suppliers to choose from. There should be no distortion through market domination or other means.",
+  "paragraph3": "The Bharatiya Vyapar Mahotsav '26 is a major step towards ensuring the vibrancy of the marketplace. The Indian Common Market is our ultimately national asset.",
+  "downloadBrochure": "Download Brochure"
+ },
+ "FocusedBusinessZonesSection": {
+  "ariaLabel": "Exhibition zones",
+  "badge": "Discover The Venue",
+  "headingLine1": "Exhibition",
+  "headingLine2": "Zones",
+  "subheading": "8 dedicated zones covering every facet of Indian business and culture",
+  "zones": [
+   {
+    "title": "Business to Business",
+    "desc": "MSMEs, Traders, Women & Youth Entrepreneurs showcasing products and forging partnerships."
+   },
+   {
+    "title": "Investment & Finance",
+    "desc": "Loans, funding, export support & FinTech solutions for growing businesses."
+   },
+   {
+    "title": "Seminars",
+    "desc": "Government leaders, industry experts & SMEs sharing insights and strategies."
+   },
+   {
+    "title": "Skilling & Training",
+    "desc": "Training programs, upskilling initiatives & youth employment opportunities."
+   },
+   {
+    "title": "Tourism & Culture",
+    "desc": "Cultural showcasing, handicrafts, handlooms & heritage tourism from all states."
+   },
+   {
+    "title": "Tastes Of India",
+    "desc": "Regional cuisines and food festivals from across all states and union territories."
+   },
+   {
+    "title": "Women & Youth",
+    "desc": "Dedicated space for women entrepreneurs and youth-led startups to shine."
+   },
+   {
+    "title": "Ability Expo",
+    "desc": "Designed exclusively to showcase the brilliance and resilience of differently-abled business leaders."
+   }
+  ]
+ },
+ "LeadershipDialoguesSection": {
+  "badge": "Speakers & Leaders",
+  "headingLine1": "Leadership Dialogues",
+  "headingLine2": "at BVM",
+  "seeAllSpeaker": "See All Speaker",
+  "speakers": [
+   {
+    "name": "Jerome Bell",
+    "designation": "Union Minister of Road Transport and Highways, Government of India"
+   },
+   {
+    "name": "Marvin McKinney",
+    "designation": "Co-Founder & CMO, BoAt"
+   },
+   {
+    "name": "Cameron Williamson",
+    "designation": "Entrepreneur and Motivational Speaker"
+   },
+   {
+    "name": "Guy Hawkins",
+    "designation": "Joint Secretary, Ministry of Science & Technology, Government of India"
+   },
+   {
+    "name": "Robert Fox",
+    "designation": "Journalist & Founder-Editor of Mojo Story"
+   },
+   {
+    "name": "Ronald Richards",
+    "designation": "Jt. Secretary, Ministry of Electronics & IT, Government of India"
+   },
+   {
+    "name": "Wade Warren",
+    "designation": "CTO, Nokia"
+   },
+   {
+    "name": "Dianne Russell",
+    "designation": "Union Minister of Road Transport and Highways, Government of India"
+   }
+  ]
+ },
+ "LogoTabsSection": {
+  "ariaLabel": "Partners and sponsors",
+  "badge": "Trusted By Industry Leaders",
+  "headingLine1": "Meet the ",
+  "headingLine2": "Sponsors, Partners & Exhibitors",
+  "govtPartners": "Government Partners",
+  "majorExhibitors": "Major Exhibitors",
+  "ourSponsors": "Our Sponsors",
+  "sectorWorkPartners": "Sector / Work Partners",
+  "knowledgePartner": "Knowledge Partners",
+  "giftingPartner": "Gifting Partner",
+  "travelPartner": "Travel Partner",
+  "awardsPartner": "Awards Partner",
+  "conferenceSessionPartner": "Conference Session Partner",
+  "industryPartner": "Industry Partner",
+  "socialImpactPartner": "Social Impact Partner",
+  "ictPartner": "ICT Partner",
+  "outdoorPartner": "Outdoor Partner",
+  "hospitalityPartner": "Hospitality Partner",
+  "refreshmentPartner": "Refreshment Partner",
+  "mobilityPartner": "Mobility Partner",
+  "hardwarePartner": "Hardware Partner",
+  "scrollLeft": "Scroll left",
+  "scrollRight": "Scroll right",
+  "govtAlt": {
+   "ministryOfCommerce": "Ministry of Commerce and Industry",
+   "ministryOfFood": "Ministry of Food Processing Industries",
+   "ministryOfEnvironment": "Ministry of Environment, Forest and Climate Change",
+   "nctDelhi": "NCT Delhi",
+   "dttdc": "DTTDC",
+   "ayushExcil": "Ayush Excil"
+  }
+ },
+ "MajorExhibitorsSection": {
+  "ariaLabel": "Major exhibitors",
+  "badge": "Featured Participants",
+  "headingLine1": "Major",
+  "headingLine2": "Exhibitors"
+ },
+ "MinistriesPartnersSection": {
+  "badge": "Supported By",
+  "headingLine1": "Government",
+  "headingLine2": "Partners",
+  "scrollLeft": "Scroll left",
+  "scrollRight": "Scroll right",
+  "logos": {
+   "ministryOfCommerce": "Ministry of Commerce",
+   "ministryOfEnvironment": "Ministry of Environment",
+   "ministryOfFood": "Ministry of Food"
+  }
+ },
+ "NewsArticlesSection": {
+  "ariaLabel": "News and announcements",
+  "badge": "Key Updates",
+  "headingLine1": "Announcements",
+  "headingLine2": "& Updates",
+  "previous": "Previous",
+  "next": "Next",
+  "goToSlide": "Go to slide {n}",
+  "readFullArticle": "Read Full Article",
+  "articles": [
+   {
+    "date": "25 NOV, 2025",
+    "source": "DD News",
+    "title": "Piyush Goyal Urges CAIT to Hold 'Biggest-Ever Swadeshi Mela' With ITPO",
+    "description": "Union Commerce Minister Piyush Goyal urged the Confederation of All India Traders (CAIT) to collaborate with ITPO and organise India's biggest-ever Swadeshi Mela, promoting indigenous products and strengthening domestic trade."
+   },
+   {
+    "date": "5 DEC, 2025",
+    "source": "Tribune India",
+    "title": "Maiden 'Bhartiya Swadeshi Mela' in Delhi from Aug 12-15",
+    "description": "The Tribune India reported on the upcoming maiden Bhartiya Swadeshi Mela to be held in Delhi, spotlighting the event as a milestone for India's domestic trade ecosystem and Swadeshi movement."
+   },
+   {
+    "date": "2 DEC, 2025",
+    "source": "ABP Live",
+    "title": "India To Host Its Biggest 'Swadeshi Expo' At Delhi's Pragati Maidan",
+    "description": "ABP Live covered India's upcoming biggest Swadeshi Expo at Pragati Maidan, New Delhi — a landmark event set to unite exhibitors, traders, and buyers from across the country under a single national platform."
+   },
+   {
+    "date": "6 JAN, 2026",
+    "source": "Economic Times",
+    "title": "CAIT to Organise India's Largest National Trade Expo in August",
+    "description": "The Economic Times reported that CAIT is set to organise India's largest-ever national trade expo, bringing together thousands of traders, MSMEs, and industry stakeholders in a landmark event aimed at boosting domestic commerce."
+   },
+   {
+    "date": "MAY, 2025",
+    "source": "Times of India",
+    "title": "Commerce Minister Piyush Goyal Urges Industry to Fast Track Import Substitution",
+    "description": "Minister of Commerce and Industry, Piyush Goyal asked the industry to seek opportunities in import substitution for both domestic manufacturing and reducing India's dependence on foreign goods."
+   },
+   {
+    "date": "MAY, 2025",
+    "source": "PIB Delhi",
+    "title": "India Targets $1 Trillion Exports This Year, $2 Trillion in Five Years",
+    "description": "Union Minister of Commerce and Industry Shri Piyush Goyal said that India has set a target of achieving exports worth 1 trillion dollars this year and 2 trillion dollars in the next five years."
+   },
+   {
+    "date": "MAY, 2025",
+    "source": "ET NOW",
+    "title": "Don't Depend Only on Subsidies for Growth",
+    "description": "Speaking at the Bhartiya Vyapar Mahotsav, Commerce Minister Piyush Goyal urged traders to focus on import substitution and build self-reliant businesses rather than depending solely on government subsidies."
+   },
+   {
+    "date": "MAY, 2025",
+    "source": "CNBC-TV18",
+    "title": "Shri Piyush Goyal Launches the Bharatiya Vyapar Mahotsav Website",
+    "description": "Commerce Minister Piyush Goyal launches the Bharatiya Vyapar Mahotsav portal, a new trade fair initiative aimed at uniting India's trading community and promoting indigenous commerce on a national scale."
+   }
+  ]
+ },
+ "ObjectivesSection": {
+  "ariaLabel": "Our mission and objectives",
+  "badge": "The Mission That Drives",
+  "headingLine1": "The Bharatiya",
+  "headingLine2": "Vyapar Mahotsav",
+  "subheading": "Five core pillars driving India's most ambitious trade and commerce movement.",
+  "objectives": [
+   {
+    "number": "01",
+    "title": "National Business Platform",
+    "description": "Provides a national platform for MSMEs, Traders, Women & Youth Entrepreneurs, Artisans & Indian Start Ups."
+   },
+   {
+    "number": "02",
+    "title": "Supply Chain Strengthening",
+    "description": "Strengthen Domestic & International Supply Chains for Make in India Products & Services."
+   },
+   {
+    "number": "03",
+    "title": "NRI Investment Mobilisation",
+    "description": "Motivates & Facilitates NRIs/ OCIs to come back & Make in India, Make for India & Make for the World."
+   },
+   {
+    "number": "04",
+    "title": "Swadeshi Awareness Drive",
+    "description": "Create Mass Awareness towards Manufacturing, Selling & adopting Swadeshi Goods."
+   },
+   {
+    "number": "05",
+    "title": "Celebrating India's Identity",
+    "description": "Celebrate India's Cultural & Economic Identity."
+   }
+  ]
+ },
+ "AgendaSection": {
+  "ariaLabel": "Event agenda and schedule",
+  "badge": "Sessions Agenda",
+  "headingLine1": "Knowledge Sessions &",
+  "headingLine2": "Country Dialogues",
+  "days": [
+   {
+    "label": "Day 1",
+    "date": "",
+    "groups": [
+     {
+      "heading": "Knowledge Sessions",
+      "icon": "sessions",
+      "cards": [
+       {
+        "sessions": [
+         {
+          "time": "14:00 - 14:40",
+          "heading": "Sector - Textiles, Fashion, Beauty & Lifestyle",
+          "title": "Designing the Future - AI, Creativity & Product Innovation",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "14:40 - 15:20",
+          "title": "Made in India, Designed for the World - Scaling Premium Lifestyle Brands with Local Identity",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "16:10 - 16:50",
+          "title": "Fashion at an Inflection Point: Innovation, Identity & Global Scale",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "16:50 - 17:30",
+          "title": "The New Consumer Lifestyle Economy",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "17:30 - 18:30",
+          "title": "The New Consumer Lifestyle Economy",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "17:30 - 18:30",
+          "title": "The New Consumer Lifestyle Economy",
+          "venue": "Hall 3"
+         }
+        ]
+       },
+       {
+        "sessions": [
+         {
+          "time": "14:00 - 14:40",
+          "heading": "Sector - Sustainability, Green & Renewable Energy",
+          "title": "Green Energy Profitability vs Climate Responsibility",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "14:40 - 15:30",
+          "title": "Fueling Sustainable Growth: Biomass, Green Energy & Ecosystem Development",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "16:30 - 17:10",
+          "title": "Sustainable Healthcare: Building Smarter, Greener & More Accessible Health Systems with AI",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "17:30 - 18:30",
+          "title": "BSL Roundtable Conference",
+          "venue": "Hall 6"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "heading": "Bharat International Dialogue",
+      "icon": "dialogue",
+      "cards": [
+       {
+        "sessions": [
+         {
+          "time": "14:00 - 14:40",
+          "title": "Bharat - European Union / OECD",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "14:40 - 15:30",
+          "title": "Bharat - BRICS/SCO",
+          "venue": "Hall 6"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Day 2",
+    "date": "",
+    "groups": [
+     {
+      "heading": "Knowledge Sessions",
+      "icon": "sessions",
+      "cards": [
+       {
+        "sessions": [
+         {
+          "time": "10:00 - 10:40",
+          "heading": "Sector - Skilling, Training & Employment",
+          "title": "Building Future Talent: Advancing Education, Skilling & Employment Ecosystems",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "10:50 - 11:30",
+          "heading": "Sector - Agriculture",
+          "title": "From Farm to Global Markets: Empowering Indian Agriculture through Innovation, Value Addition & Market Access",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "10:50 - 11:30",
+          "heading": "Sector - Media Leaders Forum",
+          "title": "India's Global Moment - Challenges & Opportunities in the Current Geopolitical Landscape",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "10:00 - 10:40",
+          "heading": "Sector - Logistics & Packaging (Porter Panel)",
+          "title": "Building Competitive MSMEs for Viksit Bharat",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "14:10 - 14:50",
+          "heading": "Sector - IT, Electronics & Mobiles",
+          "title": "AI Productivity vs Human Relevance",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "10:50 - 11:30",
+          "heading": "Sector - Naari Vandan / Women Empowerment",
+          "title": "SHEROES Power: Women Driving India's Economic Growth and Global Competitiveness",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "14:10 - 14:50",
+          "heading": "Sector - Automation & Digitalization",
+          "title": "Automation as a Catalyst for Operational Excellence",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "17:30 - 18:30",
+          "title": "Leading from the back by Mr. Ravi Kant",
+          "venue": "Hall 3"
+         }
+        ]
+       },
+       {
+        "sessions": [
+         {
+          "time": "10:00 - 10:40",
+          "heading": "Sector - Infrastructure & Engineering, Hardware",
+          "title": "From Components to Competitiveness: Redefining India's Manufacturing Edge",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "10:50 - 11:30",
+          "heading": "Sector - Real Estate",
+          "title": "Shaping Tomorrow's Real Estate: Driving Growth Across Commercial, Industrial & Residential Development",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "11:40 - 12:20",
+          "heading": "Sector - Policy • Vision • Action",
+          "title": "Make in India: Building Capacity for Global Scale",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "12:30 - 13:10",
+          "heading": "Sector - Financial Services",
+          "title": "Powering Enterprise Growth: Strengthening Business, MSME & Investment Ecosystems",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "13:20 - 14:00",
+          "heading": "Sector - SME IPO",
+          "title": "Capital to Catalyst: How SME IPOs Are Shaping India's Next Generation of Enterprise",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "14:10 - 14:50",
+          "heading": "Sector - Agri, Food Processing, FMCG & Allied",
+          "title": "Quick Commerce - Convenience at What Cost?",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "15:00 - 15:40",
+          "heading": "Sector - Hospitality & Tourism",
+          "title": "Reimagining Hospitality & Tourism: Driving Experiences, Growth & Global Connectivity",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "16:40 - 17:20",
+          "heading": "Sector - Logistics (Porter Panel)",
+          "title": "Lowering Logistics Cost: The Next Frontier of Logistics Reform",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "17:30 - 18:10",
+          "heading": "Rotary - Creating a Lasting Global Impact",
+          "title": "Shaping Global Impact Through Purpose, Partnerships and Collective Action",
+          "venue": "Hall 6"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "heading": "Bharat International Dialogue",
+      "icon": "dialogue",
+      "cards": [
+       {
+        "sessions": [
+         {
+          "time": "11:40 - 12:20",
+          "title": "Bharat - Russia",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "15:50 - 16:30",
+          "title": "Bharat - QUAD / G20",
+          "venue": "Hall 3"
+         },
+         {
+          "time": "15:50 - 16:30",
+          "title": "Bharat - African Union",
+          "venue": "Hall 6"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Day 3",
+    "date": "",
+    "groups": [
+     {
+      "heading": "Knowledge Sessions",
+      "icon": "sessions",
+      "cards": [
+       {
+        "sessions": [
+         {
+          "time": "10:00 - 10:40",
+          "heading": "Sector - Textiles - Industrial Growth",
+          "title": "Expanding Domestic Markets & Strengthening Global Exports for India's Textile & Garment Industry",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "10:50 - 11:30",
+          "heading": "Sector - Financial Services",
+          "title": "Digital Vyapar, Secure Bharat: Building Cyber-Resilient MSMEs for a $5 Trillion Economy",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "11:40 - 12:20",
+          "heading": "Sector - Healthcare & Pharma",
+          "title": "Advancing Pharma & MedTech: Driving Innovation, Manufacturing & Global Healthcare Growth",
+          "venue": "Hall 6"
+         },
+         {
+          "time": "12:30 - 13:20",
+          "heading": "Rotary - Creating a Lasting Global Impact",
+          "title": "Driving Meaningful Global Change Through Vision, Action and Collaboration",
+          "venue": "Hall 3"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "QuoteSection": {
+  "ariaLabel": "Vision and registration call to action",
+  "quote": "Become a part of Bharatiya Vyapar Mahotsav 2026, India's national platform bringing together traders, MSMEs, manufacturers, institutions, and industry leaders.",
+  "qrAlt": "Scan & Book Your Space",
+  "qrCaption1": "Scan to Follow",
+  "qrCaption2": "& Subscribe to Stay Connected",
+  "buttons": {
+   "bookYourSpace": "Book Your Space",
+   "delegateRegistration": "Business Delegate Registration",
+   "speakerRegistration": "Speaker Registration",
+   "visitorRegistration": "Register as Visitor"
+  }
+ },
+ "SectorsUnderOneRoofSection": {
+  "ariaLabel": "Sectors under one roof",
+  "badge": "Explore Business Sectors",
+  "headingLine1": "India's Most Diverse",
+  "headingLine2": "Industry Showcase",
+  "subheading": "Explore India's diverse trade landscape — from ancient crafts to frontier technology",
+  "previous": "Previous",
+  "next": "Next",
+  "swipeOrUseArrows": "Swipe or use arrows to explore",
+  "allSectors": "All Sectors",
+  "sectors": {
+   "Textiles": "Textiles",
+   "Footwear": "Footwear",
+   "ToysGifts": "Toys & Gifts",
+   "RealEstate": "Real Estate",
+   "HardwareTools": "Hardware, Tools & Kitchenware",
+   "EngineeringManufacturing": "Engineering & Manufacturing",
+   "GreenEnergy": "Green Energy",
+   "AutoEV": "Auto & EV",
+   "FMCG": "FMCG",
+   "ITElectronics": "IT, Electronics & Accessories",
+   "Agriculture": "Agriculture and Allied Industries",
+   "AutoComponents": "Auto Components",
+   "Automobiles": "Automobiles",
+   "Aviation": "Aviation",
+   "Banking": "Banking",
+   "Biotechnology": "Biotechnology",
+   "Cement": "Cement",
+   "Chemicals": "Chemicals",
+   "ConsumerDurables": "Consumer Durables",
+   "DefenceManufacturing": "Defence Manufacturing",
+   "EducationTraining": "Education and Training",
+   "ElectricVehicle": "Electric Vehicle",
+   "ESDM": "Electronic System Design & Manufacturing",
+   "FinancialServices": "Financial Services",
+   "FoodProcessing": "Food Processing",
+   "GemsJewellery": "Gems & Jewellery",
+   "Healthcare": "Healthcare",
+   "Infrastructure": "Infrastructure",
+   "Insurance": "Insurance",
+   "ITBPM": "IT & BPM",
+   "Manufacturing": "Manufacturing",
+   "MediaEntertainment": "Media & Entertainment",
+   "MedicalDevices": "Medical Devices",
+   "MetalsMining": "Metals & Mining",
+   "MSME": "MSME",
+   "OilGas": "Oil & Gas",
+   "PaperPackaging": "Paper & Packaging",
+   "Pharmaceuticals": "Pharmaceuticals",
+   "Ports": "Ports",
+   "Power": "Power",
+   "Railways": "Railways",
+   "Retail": "Retail",
+   "Roads": "Roads",
+   "ScienceTechnology": "Science & Technology",
+   "Services": "Services",
+   "Steel": "Steel",
+   "Telecommunication": "Telecommunication",
+   "TourismHospitality": "Tourism & Hospitality"
+  }
+ },
+ "SponsorsSection": {
+  "ariaLabel": "Sponsors",
+  "badge": "Our Partners in Progress",
+  "headingLine1": "Our",
+  "headingLine2": "Sponsors"
+ },
+ "SwadeshiSection": {
+  "badge": "The Biggest Ever Exposition of",
+  "headingLine1": "Swadeshi",
+  "headingLine2": "Products",
+  "text": "The Hon'ble Prime Minister has called for Atmanirbharta, a direction with far-reaching positive implications for the nation. In support, CAIT is pleased to launch the Bharatiya Vyapar Movement, a series of initiatives across the country and abroad, for imaginative trade and commerce. Particular focus will be on the vast MSME sector.",
+  "caitTitle": "Confederation of All India Traders",
+  "caitDesc": "CAIT is the world's largest traders' group with a powerful network of 48,000+ associations and 9+ crore members across India.",
+  "caitAlt": "CAIT",
+  "organizedBy": "Organized by",
+  "imageAlt1": "Indian woman entrepreneur in factory",
+  "imageAlt2": "Manufacturing workers in yellow hard hats"
+ },
+ "TradePlatformSection": {
+  "ariaLabel": "Event scale and reach",
+  "badge": "India's Biggest Trade Platform",
+  "headingLine1": "The Scale of Bharatiya",
+  "headingLine2": "Vyapar Mahotsav",
+  "stats": {
+   "exhibitors": "Exhibitors",
+   "businessDelegates": "Business Delegates",
+   "businessDelegatesFull": "Business delegates, international buyers, NRI/Indian diaspora & visitors",
+   "visitors": "Visitors",
+   "caitNetwork": "Access to buyers through CAIT network",
+   "foreignDelegates": "Foreign Delegates",
+   "centralMinistriesStates": "Central Ministries and States & UTs",
+   "centralMinistries": "Central Ministries",
+   "statesUTs": "States & UTs",
+   "associations": "Associations",
+   "media": "Media",
+   "lacsSuffix": " LACS+",
+   "lSuffix": "L+"
+  }
+ },
+ "TradePlatformSectionV2": {
+  "badge": "Scale & Impact",
+  "headingLine1": "India's Biggest",
+  "headingLine2": "Trade Platform",
+  "description": "The Bharatiya Vyapar Mahotsav is India's most comprehensive response to building a self-reliant economy through promoting domestic commerce and strengthening our trade ecosystem. Swadeshi Products & Services - Expanding domestic commerce, hastening import substitution, and building exports through a unified platform.",
+  "bookYourSpace": "Book Your Space",
+  "stats": {
+   "exhibitors": "Exhibitors",
+   "associations": "Associations",
+   "businessDelegates": "Business Delegates",
+   "visitors": "Visitors",
+   "centralMinistries": "Central Ministries",
+   "statesUTs": "States & UTs",
+   "media": "Media",
+   "nris": "NRIs & OCIs",
+   "lacsSuffix": " LACS+"
+  }
+ },
+ "VisionBehindSection": {
+  "badge": "Get A Closer Look At The",
+  "headingLine1": "Vision",
+  "headingLine2": "Behind",
+  "bharatiyaVyapar": "Bharatiya Vyapar",
+  "mahotsavSvg": "MAHOTSAV 26",
+  "description": "Hear Directly From The Organising Committee As They Share The Purpose, Scale, And Impact Of This Landmark Trade Platform For Bharat.",
+  "videoAlt": "Vision Video {n}"
+ },
+ "WhyAttendSection": {
+  "ariaLabel": "Why attend BVM 2026",
+  "badge": "Why ",
+  "headingLine1": "Bharatiya Vyapar",
+  "headingLine2": "Mahotsav",
+  "forExhibitors": "For Exhibitors",
+  "forDelegates": "For Business Delegates",
+  "forVisitors": "For Visitors",
+  "exhibitorCards": [
+   {
+    "title": "Massive Market Access",
+    "description": "Gain direct access to over 10+ lakh visitors, 2Lakh+ B2B delegates, and international buyers, creating strong domestic and global business expansion opportunities."
+   },
+   {
+    "title": "Public Sector Connect",
+    "description": "Interact directly with central ministries, state bodies, PSUs, banks, and MSME departments to explore funding, export support, and strategic partnerships."
+   },
+   {
+    "title": "Brand Positioning",
+    "description": "Position your brand under the national vision of Make in India and Vocal for Local, enhancing credibility, visibility, and long-term market trust."
+   }
+  ],
+  "delegateCards": [
+   {
+    "title": "Strategic Business Networking",
+    "description": "Connect with industry leaders, corporate decision-makers, policymakers, and entrepreneurs to build partnerships, exchange insights, and explore new business collaborations."
+   },
+   {
+    "title": "Policy & Industry Insights",
+    "description": "Engage in discussions with government representatives, sector experts, and institutional leaders to understand policy directions, emerging market trends, and industry opportunities."
+   },
+   {
+    "title": "High-Value Market Exposure",
+    "description": "Discover new sectors, investment opportunities, and emerging businesses while expanding your professional network within India's growing trade and enterprise ecosystem."
+   }
+  ],
+  "visitorCards": [
+   {
+    "title": "Multi-Sector Showcase",
+    "description": "Explore 25+ high-growth sectors including engineering, auto, agri, textiles, electronics, and wellness — all under one comprehensive platform."
+   },
+   {
+    "title": "Growth Opportunities",
+    "description": "Engage in networking meetings, startup showcases, funding discussions, and expert-led seminars designed to accelerate business and career growth."
+   },
+   {
+    "title": "Culture Meets Commerce",
+    "description": "Experience a vibrant blend of trade and tradition through regional cuisines, handicrafts, cultural performances, and inspiring MSME success stories."
+   }
+  ]
+ },
+ "YouTubeSection": {
+  "ariaLabel": "Featured videos",
+  "clickToWatch": "Click to watch",
+  "playVideo": "Play video: {title}",
+  "closeVideo": "Close video",
+  "videoPlayer": "Video player",
+  "previewSuffix": " — preview",
+  "videos": [
+   {
+    "title": "Bharatiya Vyapar Mahotsav 2026 — promo"
+   },
+   {
+    "title": "BVM 2026 — about the event"
+   },
+   {
+    "title": "BVM 2026 — exhibitor highlights"
+   },
+   {
+    "title": "BVM 2026 — Bharat Mandapam venue"
+   },
+   {
+    "title": "BVM 2026 — common market vision"
+   },
+   {
+    "title": "BVM 2026 — partner announcements"
+   }
+  ]
+ },
+ "ZonesSection": {
+  "headingLine1": "Multiple Zones",
+  "headingLine2": "For Every Business",
+  "subheading": "23+ Dedicated Exhibition Zones Covering All Major Sectors",
+  "bookYourSpace": "Book Your Space",
+  "exhibitorProfile": "Exhibitor Profile",
+  "zones": [
+   {
+    "name": "Auto & EV"
+   },
+   {
+    "name": "Engineering & Automation"
+   },
+   {
+    "name": "Green & Renewable Energy"
+   },
+   {
+    "name": "Agri, Food, Millets & Organic Food"
+   },
+   {
+    "name": "Retail & FMCG"
+   },
+   {
+    "name": "Wellness, Ayurveda & Herbal Products"
+   },
+   {
+    "name": "Footwear"
+   },
+   {
+    "name": "Home Furnishing & Carpets"
+   },
+   {
+    "name": "Gold, Silver, Jewellery & Gems"
+   },
+   {
+    "name": "Toys & Learning Aids"
+   },
+   {
+    "name": "Mobile & Telecom"
+   },
+   {
+    "name": "IT & Emerging Tech"
+   },
+   {
+    "name": "Travel & Hospitality"
+   },
+   {
+    "name": "Media & Entertainment"
+   },
+   {
+    "name": "Paper, Stationery, Books & Gifts"
+   },
+   {
+    "name": "Pharma & Medical Equipment"
+   },
+   {
+    "name": "Clocks & Watches"
+   },
+   {
+    "name": "GI Tagged Products"
+   },
+   {
+    "name": "Hardware & Paints"
+   },
+   {
+    "name": "Utensils & Home Appliances"
+   },
+   {
+    "name": "Real Estate & Infra"
+   },
+   {
+    "name": "Recycling & Sustainability"
+   },
+   {
+    "name": "Logistics - Domestic & Intl"
+   }
+  ]
+ },
+ "RegistrationModal": {
+  "closeAria": "Close registration form",
+  "title": "Register for BVM 2026",
+  "subtitle": "Bharatiya Vyapar Mahotsav - Aug 12-15, 2026",
+  "visitorTiming": "3:00 PM to 7:00 PM",
+  "delegateTiming": "10:00 AM to 7:00 PM",
+  "registerAs": "Register As",
+  "roleOptions": {
+   "delegate": "Business Delegate",
+   "speaker": "Speaker",
+   "visitor": "Visitor",
+   "exhibitor": "Exhibitor"
+  },
+  "firstName": "First Name",
+  "firstNamePlaceholder": "Enter first name",
+  "lastName": "Last Name",
+  "lastNamePlaceholder": "Enter last name",
+  "email": "Email Address",
+  "emailPlaceholder": "your@email.com",
+  "mobile": "Mobile Number",
+  "mobilePlaceholder": "Mobile number",
+  "mobilePatternTitle": "Enter a valid Mobile number",
+  "organization": "Organization",
+  "organizationPlaceholder": "Company / Organization name",
+  "designation": "Designation",
+  "designationPlaceholder": "Your designation",
+  "country": "Country",
+  "selectCountry": "Select country",
+  "state": "State / Union Territory",
+  "selectState": "Select state / UT",
+  "referredBy": "Referred By",
+  "referredByPlaceholder": "Who referred you?",
+  "optional": "Optional",
+  "pwdOrElderly": "Are you a Person with Disability or Elderly",
+  "specialAssistance": "Do you need any special assistance",
+  "selectYesNo": "Select an option",
+  "yes": "Yes",
+  "no": "No",
+  "gstNumber": "GST Number",
+  "gstPlaceholder": "e.g., 27ABCDE1234F1Z5",
+  "businessCategory": "Business Category",
+  "selectCategory": "Select category",
+  "primaryPurposeOfVisit": "Primary Purpose of Visit",
+  "selectPurpose": "Select purpose",
+  "primarilyDealIn": "Primarily Deal In",
+  "selectDealIn": "Select",
+  "businessTurnover": "Business Turnover",
+  "selectTurnover": "Select turnover",
+  "natureOfBusiness": "Nature of Business",
+  "selectNatureOfBusiness": "Select nature of business",
+  "natureOfBusinessOptions": [
+   "Manufacturer",
+   "Trader",
+   "Buying Agent",
+   "Dealer/Distributor",
+   "Franchise",
+   "Importer/Exporter",
+   "Merchandiser",
+   "Retailer/E-commerce",
+   "Service Provider",
+   "Wholesaler",
+   "Others"
+  ],
+  "preferredStallSize": "Preferred Stall Size",
+  "selectStallSize": "Select stall size",
+  "customStallSizeAria": "Custom stall size",
+  "customStallSizePlaceholder": "Enter custom stall size (e.g., 12x9)",
+  "sectorExpertise": "Sector Expertise",
+  "selectSector": "Select sector",
+  "sessionType": "Session Type",
+  "selectSessionType": "Select session type",
+  "primaryRole": "Primary Role",
+  "selectRole": "Select role",
+  "speakingExperience": "Speaking Experience",
+  "selectExperience": "Select experience level",
+  "termsPrefix": "By submitting, you agree to our ",
+  "termsLink": "Terms & Conditions",
+  "termsMiddle": " and ",
+  "privacyLink": "Privacy Policy",
+  "termsSuffix": ". *",
+  "submitting": "Submitting...",
+  "submit": "Submit",
+  "consentText": "By submitting this form, I consent to Bharatiya Vyapar Mahotsav (BVM) 2026 collecting and using my information to contact me regarding event participation, partnerships, sponsorships, updates, and related communications. I understand that my data will not be sold or shared with third parties for marketing purposes, and that I may withdraw my consent at any time by contacting BVM.",
+  "errorDefault": "Something went wrong.",
+  "errorFailed": "Registration failed. Please try again.",
+  "errorAlreadyRegistered": "This email address is already registered for this event. Please use a different email address.",
+  "businessCategories": [
+   "Textile, Fashion, Beauty & Lifestyle",
+   "Agri, Food Processing, FMCG & Allied",
+   "IT, Electronics and Mobile",
+   "Infrastructure & Engineering",
+   "Sustainability, Green & Renewable Energy",
+   "Support Service - Logistics",
+   "Support Service - Financial Service",
+   "Support Service - Skilling, Training & Employment",
+   "Tourism",
+   "Healthcare",
+   "Others"
+  ],
+  "purposeOfVisit": [
+   "Networking",
+   "Business Expansion",
+   "Product Sourcing",
+   "Investment Opportunities",
+   "Knowledge & Seminars",
+   "Brand Promotion",
+   "Other"
+  ],
+  "dealInOptions": [
+   "Electronics",
+   "FMCG",
+   "Textiles",
+   "Machinery",
+   "Agriculture Products",
+   "Chemicals",
+   "Handicrafts",
+   "IT Services",
+   "Other"
+  ],
+  "turnoverOptions": [
+   "Below 1 Cr",
+   "1-5 Cr",
+   "5-10 Cr",
+   "10-50 Cr",
+   "50-100 Cr",
+   "Above 100 Cr"
+  ],
+  "stallSizeOptions": [
+   "9 sq mtr",
+   "18 sq mtr",
+   "27 sq mtr",
+   "36 sq mtr",
+   "45 sq mtr",
+   "50+ sq mtr"
+  ],
+  "sectorExpertiseOptions": [
+   "Textiles & Apparel",
+   "Manufacturing & Industry",
+   "Agriculture & Food Processing",
+   "Investment & Finance",
+   "Infrastructure & Energy",
+   "MSMEs & Trade Policy",
+   "Education & Skilling",
+   "Culture & Handicrafts",
+   "Multi-sector / Cross-sector"
+  ],
+  "sessionTypeOptions": [
+   "Keynote Address",
+   "Panel Discussion",
+   "Fireside Chat",
+   "Industry Insight Session",
+   "Open to organiser's discretion"
+  ],
+  "primaryRoleOptions": [
+   "Founder / Entrepreneur",
+   "Corporate Leader (CXO / Director Level)",
+   "Policy / Government Representative",
+   "Investor / Financial Institution",
+   "Trade Association / Industry Body",
+   "Academic / Research Expert"
+  ],
+  "speakingExperienceOptions": [
+   "Frequent National / International Speaker",
+   "Industry Conference Speaker",
+   "Occasional Speaker",
+   "First-time Conference Speaker"
+  ]
+ },
+ "MediaRegistrationModal": {
+  "closeAria": "Close media registration",
+  "title": "Media Registration",
+  "subtitle": "BVM 2026 - Press & Media Accreditation",
+  "firstName": "First Name",
+  "firstNamePlaceholder": "First name",
+  "lastName": "Last Name",
+  "lastNamePlaceholder": "Last name",
+  "email": "Email Address",
+  "emailPlaceholder": "your@email.com",
+  "mobile": "Mobile Number",
+  "mobilePlaceholder": "Mobile number",
+  "organization": "Media Organization",
+  "organizationPlaceholder": "Publication / Channel name",
+  "designation": "Designation",
+  "designationPlaceholder": "e.g., Reporter, Editor",
+  "mediaType": "Media Type",
+  "selectMediaType": "Select media type",
+  "optional": "Optional",
+  "pwdOrElderly": "Are you a Person with Disability or Elderly",
+  "specialAssistance": "Do you need any special assistance",
+  "selectYesNo": "Select an option",
+  "yes": "Yes",
+  "no": "No",
+  "termsPrefix": "By submitting, you agree to our ",
+  "termsLink": "Terms & Conditions",
+  "termsMiddle": " and ",
+  "privacyLink": "Privacy Policy",
+  "termsSuffix": ". *",
+  "submitting": "Submitting...",
+  "submit": "Submit",
+  "successMessage": "Media registration successful!",
+  "errorDefault": "Something went wrong.",
+  "errorFailed": "Registration failed. Please try again.",
+  "consentText": "By submitting this form, I consent to Bharatiya Vyapar Mahotsav (BVM) 2026 collecting and using my information to contact me regarding event participation, partnerships, sponsorships, updates, and related communications. I understand that my data will not be sold or shared with third parties for marketing purposes, and that I may withdraw my consent at any time by contacting BVM.",
+  "mediaTypes": [
+   "Print Media",
+   "Electronic Media",
+   "Digital / Online Media",
+   "News Agency",
+   "Freelance Journalist",
+   "Other"
+  ]
+ },
+ "SponsorRegistrationModal": {
+  "closeAria": "Close sponsor registration",
+  "title": "Sponsor Registration",
+  "subtitle": "Partner with BVM 2026",
+  "firstName": "First Name",
+  "firstNamePlaceholder": "First name",
+  "lastName": "Last Name",
+  "lastNamePlaceholder": "Last name",
+  "email": "Email Address",
+  "emailPlaceholder": "your@email.com",
+  "mobile": "Mobile Number",
+  "mobilePlaceholder": "Mobile number",
+  "organization": "Company Name",
+  "organizationPlaceholder": "Company / Organization",
+  "designation": "Designation",
+  "designationPlaceholder": "Your designation",
+  "sponsorshipInterest": "Sponsorship Interest",
+  "selectSponsorship": "Select sponsorship type",
+  "annualTurnover": "Annual Business Turnover",
+  "selectTurnover": "Select turnover range",
+  "optional": "Optional",
+  "pwdOrElderly": "Are you a Person with Disability or Elderly",
+  "specialAssistance": "Do you need any special assistance",
+  "selectYesNo": "Select an option",
+  "yes": "Yes",
+  "no": "No",
+  "termsPrefix": "By submitting, you agree to our ",
+  "termsLink": "Terms & Conditions",
+  "termsMiddle": " and ",
+  "privacyLink": "Privacy Policy",
+  "termsSuffix": ". *",
+  "submitting": "Submitting...",
+  "submit": "Submit",
+  "successMessage": "Sponsor registration successful! Our team will contact you shortly.",
+  "errorDefault": "Something went wrong.",
+  "errorFailed": "Registration failed. Please try again.",
+  "consentText": "By submitting this form, I consent to Bharatiya Vyapar Mahotsav (BVM) 2026 collecting and using my information to contact me regarding event participation, partnerships, sponsorships, updates, and related communications. I understand that my data will not be sold or shared with third parties for marketing purposes, and that I may withdraw my consent at any time by contacting BVM.",
+  "sponsorshipTypes": [
+   "Title Sponsor",
+   "Gold Sponsor",
+   "Silver Sponsor",
+   "Associate Sponsor",
+   "Zone Sponsor",
+   "Media Sponsor",
+   "Other"
+  ],
+  "turnoverOptions": [
+   "Below 1 Cr",
+   "1-5 Cr",
+   "5-10 Cr",
+   "10-50 Cr",
+   "50-100 Cr",
+   "Above 100 Cr"
+  ]
+ },
+ "ExhibitorRegistrationForm": {
+  "firstName": "First Name",
+  "firstNamePlaceholder": "Enter first name",
+  "lastName": "Last Name",
+  "lastNamePlaceholder": "Enter last name",
+  "email": "Email Address",
+  "emailPlaceholder": "your@email.com",
+  "mobile": "Mobile Number",
+  "mobilePlaceholder": "Mobile number",
+  "mobilePatternTitle": "Enter a valid Mobile number",
+  "sendOtp": "Send OTP",
+  "resendOtp": "Resend OTP",
+  "sending": "Sending...",
+  "verified": "Verified",
+  "otpLabel": "Enter OTP",
+  "otpPlaceholder": "6-digit OTP",
+  "verifyOtp": "Verify OTP",
+  "verifying": "Verifying...",
+  "otpVerifiedMessage": "Mobile number verified.",
+  "otpSendFailed": "Failed to send OTP. Please try again.",
+  "otpVerifyFailed": "Invalid OTP. Please try again.",
+  "otpVerifyRequired": "Please verify your mobile number with OTP before submitting.",
+  "organization": "Organization",
+  "organizationPlaceholder": "Company / Organization name",
+  "designation": "Designation",
+  "designationPlaceholder": "Your designation",
+  "gstNumber": "GST Number",
+  "gstPlaceholder": "e.g., 27ABCDE1234F1Z5",
+  "businessCategory": "Business Category",
+  "selectCategory": "Select category",
+  "primarilyDealIn": "Primarily Deal In",
+  "selectDealIn": "Select",
+  "businessTurnover": "Business Turnover",
+  "selectTurnover": "Select turnover",
+  "preferredStallSize": "Preferred Stall Size",
+  "selectStallSize": "Select stall size",
+  "customStallSizeAria": "Custom stall size",
+  "customStallSizePlaceholder": "Enter custom stall size (e.g., 12x9)",
+  "optional": "Optional",
+  "pwdOrElderly": "Are you a Person with Disability or Elderly",
+  "specialAssistance": "Do you need any special assistance",
+  "selectYesNo": "Select an option",
+  "yes": "Yes",
+  "no": "No",
+  "termsPrefix": "By submitting, you agree to our ",
+  "termsLink": "Terms & Conditions",
+  "termsMiddle": " and ",
+  "privacyLink": "Privacy Policy",
+  "termsSuffix": ".",
+  "submitting": "Submitting...",
+  "submit": "Submit",
+  "errorDefault": "Something went wrong.",
+  "errorFailed": "Registration failed. Please try again.",
+  "errorAlreadyRegistered": "This email address is already registered for this event. Please use a different email address.",
+  "consentText": "By submitting this form, I consent to Bharatiya Vyapar Mahotsav (BVM) 2026 collecting and using my information to contact me regarding event participation, partnerships, sponsorships, updates, and related communications. I understand that my data will not be sold or shared with third parties for marketing purposes, and that I may withdraw my consent at any time by contacting BVM.",
+  "businessCategories": [
+   "Textile, Fashion, Beauty & Lifestyle",
+   "Agri, Food Processing, FMCG & Allied",
+   "IT, Electronics and Mobile",
+   "Infrastructure & Engineering",
+   "Sustainability, Green & Renewable Energy",
+   "Support Service - Logistics",
+   "Support Service - Financial Service",
+   "Support Service - Skilling, Training & Employment",
+   "Tourism",
+   "Healthcare",
+   "Others"
+  ],
+  "dealInOptions": [
+   "Electronics",
+   "FMCG",
+   "Textiles",
+   "Machinery",
+   "Agriculture Products",
+   "Chemicals",
+   "Handicrafts",
+   "IT Services",
+   "Other"
+  ],
+  "turnoverOptions": [
+   "Below 1 Cr",
+   "1-5 Cr",
+   "5-10 Cr",
+   "10-50 Cr",
+   "50-100 Cr",
+   "Above 100 Cr"
+  ],
+  "stallSizeOptions": [
+   "9 sq mtr",
+   "18 sq mtr",
+   "27 sq mtr",
+   "36 sq mtr",
+   "45 sq mtr",
+   "50+ sq mtr"
+  ]
+ },
+ "BusinessDelegateRegistrationForm": {
+  "firstName": "First Name",
+  "firstNamePlaceholder": "Enter first name",
+  "lastName": "Last Name",
+  "lastNamePlaceholder": "Enter last name",
+  "email": "Email Address",
+  "emailPlaceholder": "your@email.com",
+  "mobile": "Mobile Number",
+  "mobilePlaceholder": "Mobile number",
+  "organization": "Organization",
+  "organizationPlaceholder": "Company / Organization name",
+  "designation": "Designation",
+  "designationPlaceholder": "Your designation",
+  "country": "Country",
+  "selectCountry": "Select country",
+  "state": "State / Union Territory",
+  "selectState": "Select state / UT",
+  "referredBy": "Referred By",
+  "referredByPlaceholder": "Who referred you?",
+  "optional": "Optional",
+  "pwdOrElderly": "Are you a Person with Disability or Elderly",
+  "specialAssistance": "Do you need any special assistance",
+  "selectYesNo": "Select an option",
+  "yes": "Yes",
+  "no": "No",
+  "gstNumber": "GST Number",
+  "gstPlaceholder": "e.g., 27ABCDE1234F1Z5",
+  "businessCategory": "Business Category",
+  "selectCategory": "Select category",
+  "primaryPurposeofVisit": "Primary Purpose of Visit",
+  "selectPurpose": "Select purpose",
+  "primarilyDealIn": "Primarily Deal In",
+  "selectDealIn": "Select",
+  "businessTurnover": "Business Turnover",
+  "selectTurnover": "Select turnover",
+  "natureOfBusiness": "Nature of Business",
+  "selectNatureOfBusiness": "Select nature of business",
+  "termsPrefix": "By submitting, you agree to our ",
+  "termsLink": "Terms & Conditions",
+  "termsMiddle": " and ",
+  "privacyLink": "Privacy Policy",
+  "termsSuffix": ".",
+  "submitting": "Submitting...",
+  "submit": "Submit",
+  "errorDefault": "Something went wrong.",
+  "errorFailed": "Registration failed. Please try again.",
+  "errorAlreadyRegistered": "This email address is already registered for this event. Please use a different email address.",
+  "consentText": "By submitting this form, I consent to Bharatiya Vyapar Mahotsav (BVM) 2026 collecting and using my information to contact me regarding event participation, partnerships, sponsorships, updates, and related communications. I understand that my data will not be sold or shared with third parties for marketing purposes, and that I may withdraw my consent at any time by contacting BVM.",
+  "natureOfBusinessOptions": [
+   "Manufacturer",
+   "Trader",
+   "Buying Agent",
+   "Dealer/Distributor",
+   "Franchise",
+   "Importer/Exporter",
+   "Merchandiser",
+   "Retailer/E-commerce",
+   "Service Provider",
+   "Wholesaler",
+   "Others"
+  ],
+  "businessCategories": [
+   "Textile, Fashion, Beauty & Lifestyle",
+   "Agri, Food Processing, FMCG & Allied",
+   "IT, Electronics and Mobile",
+   "Infrastructure & Engineering",
+   "Sustainability, Green & Renewable Energy",
+   "Support Service - Logistics",
+   "Support Service - Financial Service",
+   "Support Service - Skilling, Training & Employment",
+   "Tourism",
+   "Healthcare",
+   "Others"
+  ],
+  "purposeOfVisit": [
+   "Networking",
+   "Business Expansion",
+   "Product Sourcing",
+   "Investment Opportunities",
+   "Knowledge & Seminars",
+   "Brand Promotion",
+   "Other"
+  ],
+  "dealInOptions": [
+   "Electronics",
+   "FMCG",
+   "Textiles",
+   "Machinery",
+   "Agriculture Products",
+   "Chemicals",
+   "Handicrafts",
+   "IT Services",
+   "Other"
+  ],
+  "turnoverOptions": [
+   "Below 1 Cr",
+   "1-5 Cr",
+   "5-10 Cr",
+   "10-50 Cr",
+   "50-100 Cr",
+   "Above 100 Cr"
+  ]
+ },
+ "BusinessDelegateRegistrationPage": {
+  "title": "Business Delegate Registration",
+  "subtitle": "Bharatiya Vyapar Mahotsav 2026",
+  "timing": "10:00 AM to 7:00 PM",
+  "intro": "Register as a Business Delegate for Bharatiya Vyapar Mahotsav '26. Fill in the below details and we will reach out to you soon.",
+  "modiAlt": "Shri Narendra Modi",
+  "modiCaption1": "In Pursuance of the Vision of",
+  "modiCaption2": "the Hon'ble Prime Minister of India",
+  "modiName": "Shri Narendra Modi",
+  "delegateHighlightLine1": "Stall prices starts from",
+  "delegateHighlightCount": "Rs. 1.44 Lac",
+  "delegateHighlightLine2": " for 4 Days",
+  "delegateHighlightSep": "Connect to unlock",
+  "delegateHighlightLine3": "exclusive discounts and offers",
+  "partnerLogos": {
+   "organiser": "Organiser",
+   "supportedBy": "Supported By",
+   "coOrganiser": "Co-Organiser",
+   "hostState": "Host State",
+   "caitAlt": "CAIT",
+   "caitCaption": "Confederation of All India Traders",
+   "ministryAlt": "Ministry of Commerce and Industry",
+   "ministryCaption": "Ministry of Commerce & Industry, Govt. of India",
+   "itpoAlt": "ITPO",
+   "itpoCaption": "India Trade Promotion Organisation (A Govt. of India Enterprise)",
+   "delhiAlt": "Delhi NCT",
+   "delhiCaption": "Govt. of National Capital Territory of Delhi"
+  }
+ },
+ "VisitorRegistrationForm": {
+  "firstName": "First Name",
+  "firstNamePlaceholder": "Enter first name",
+  "lastName": "Last Name",
+  "lastNamePlaceholder": "Enter last name",
+  "email": "Email Address",
+  "emailPlaceholder": "your@email.com",
+  "mobile": "Mobile Number",
+  "mobilePlaceholder": "Mobile number",
+  "organization": "Organization",
+  "organizationPlaceholder": "Company / Organization name",
+  "designation": "Designation",
+  "designationPlaceholder": "Your designation",
+  "country": "Country",
+  "selectCountry": "Select country",
+  "state": "State / Union Territory",
+  "selectState": "Select state / UT",
+  "referredBy": "Referred By",
+  "referredByPlaceholder": "Who referred you?",
+  "optional": "Optional",
+  "pwdOrElderly": "Are you a Person with Disability or Elderly",
+  "specialAssistance": "Do you need any special assistance",
+  "selectYesNo": "Select an option",
+  "yes": "Yes",
+  "no": "No",
+  "primaryPurposeofVisit": "Primary Purpose of Visit",
+  "selectPurpose": "Select purpose",
+  "termsPrefix": "By submitting, you agree to our ",
+  "termsLink": "Terms & Conditions",
+  "termsMiddle": " and ",
+  "privacyLink": "Privacy Policy",
+  "termsSuffix": ".",
+  "submitting": "Submitting...",
+  "submit": "Submit",
+  "errorDefault": "Something went wrong.",
+  "errorFailed": "Registration failed. Please try again.",
+  "errorAlreadyRegistered": "This email address is already registered for this event. Please use a different email address.",
+  "consentText": "By submitting this form, I consent to Bharatiya Vyapar Mahotsav (BVM) 2026 collecting and using my information to contact me regarding event participation, partnerships, sponsorships, updates, and related communications. I understand that my data will not be sold or shared with third parties for marketing purposes, and that I may withdraw my consent at any time by contacting BVM.",
+  "purposeOfVisit": [
+   "Networking",
+   "Business Expansion",
+   "Product Sourcing",
+   "Investment Opportunities",
+   "Knowledge & Seminars",
+   "Brand Promotion",
+   "Other"
+  ]
+ },
+ "VisitorRegistrationPage": {
+  "title": "Visitor Registration",
+  "subtitle": "Bharatiya Vyapar Mahotsav 2026",
+  "timing": "3:00 PM to 7:00 PM",
+  "intro": "Register as a Visitor for Bharatiya Vyapar Mahotsav '26. Fill in the below details and we will reach out to you soon.",
+  "modiAlt": "Shri Narendra Modi",
+  "modiCaption1": "In Pursuance of the Vision of",
+  "modiCaption2": "the Hon'ble Prime Minister of India",
+  "modiName": "Shri Narendra Modi",
+  "partnerLogos": {
+   "organiser": "Organiser",
+   "supportedBy": "Supported By",
+   "coOrganiser": "Co-Organiser",
+   "hostState": "Host State",
+   "caitAlt": "CAIT",
+   "caitCaption": "Confederation of All India Traders",
+   "ministryAlt": "Ministry of Commerce and Industry",
+   "ministryCaption": "Ministry of Commerce & Industry, Govt. of India",
+   "itpoAlt": "ITPO",
+   "itpoCaption": "India Trade Promotion Organisation (A Govt. of India Enterprise)",
+   "delhiAlt": "Delhi NCT",
+   "delhiCaption": "Govt. of National Capital Territory of Delhi"
+  }
+ },
+ "ExhibitorRegistrationPage": {
+  "title": "Exhibitor Registration",
+  "subtitle": "Bharatiya Vyapar Mahotsav 2026",
+  "intro": "Book your space as an Exhibitor in Bharatiya Vyapar Mahotsav '26. Fill in the below details and we will reach out to you soon.",
+  "modiAlt": "Shri Narendra Modi",
+  "modiCaption1": "In Pursuance of the Vision of",
+  "modiCaption2": "the Hon'ble Prime Minister of India",
+  "modiName": "Shri Narendra Modi",
+  "stallPricingLine1": "Stall prices starts from",
+  "stallPricingPrice": "Rs. 1.44 Lac",
+  "stallPricingDuration": " for 4 Days",
+  "stallPricingLine2": "Connect to unlock",
+  "stallPricingLine3": "exclusive discounts and offers",
+  "partnerLogos": {
+   "organiser": "Organiser",
+   "supportedBy": "Supported By",
+   "coOrganiser": "Co-Organiser",
+   "hostState": "Host State",
+   "caitAlt": "CAIT",
+   "caitCaption": "Confederation of All India Traders",
+   "ministryAlt": "Ministry of Commerce and Industry",
+   "ministryCaption": "Ministry of Commerce & Industry, Govt. of India",
+   "itpoAlt": "ITPO",
+   "itpoCaption": "India Trade Promotion Organisation (A Govt. of India Enterprise)",
+   "delhiAlt": "Delhi NCT",
+   "delhiCaption": "Govt. of National Capital Territory of Delhi"
+  }
+ },
+ "PrivacyPolicy": {
+  "title": "Privacy Policy",
+  "subtitle": "Bharatiya Vyapar Mahotsav (BVM) 2026",
+  "sections": [
+   {
+    "title": "1. Introduction",
+    "content": [
+     "Bharatiya Vyapar Mahotsav (BVM) 2026 (\"BVM\", \"we\", \"us\", \"our\") respects the privacy of individuals and is committed to protecting personal information shared with us.",
+     "This Privacy Policy explains how we collect, use, store, process, and safeguard information obtained through our website, digital advertisements, lead generation forms, event registrations, and related communications, in accordance with applicable laws of India."
+    ]
+   },
+   {
+    "title": "2. Information We Collect",
+    "content": [
+     "When you interact with BVM, including through LinkedIn Lead Generation Forms, website enquiry forms, or registration platforms, we may collect the following information:",
+     "• Full name",
+     "• Company / organisation name",
+     "• Job title",
+     "• Official email address",
+     "• Contact number",
+     "• Business category or sector",
+     "• Turnover or scale information (only if voluntarily provided)",
+     "• Participation interests and objectives",
+     "We may also collect limited technical information such as IP address, browser type, device information, and website usage data through cookies or analytics tools."
+    ]
+   },
+   {
+    "title": "3. Purpose of Collection & Use",
+    "content": [
+     "Personal information collected by BVM is used for legitimate and lawful business purposes, including but not limited to:",
+     "• Responding to enquiries and expressions of interest",
+     "• Communicating regarding participation in BVM 2026",
+     "• Sharing event-related updates, opportunities, and official communications",
+     "• Assessing eligibility for exhibitor, partner, or sponsor participation",
+     "• Improving engagement, outreach, and operational efficiency",
+     "BVM does not sell, rent, or trade personal data to third parties."
+    ]
+   },
+   {
+    "title": "4. Legal Basis for Processing",
+    "content": [
+     "We process personal information on the following legal grounds:",
+     "• Consent provided by users at the time of form submission",
+     "• Legitimate business interests connected with event participation",
+     "• Performance of contractual or pre-contractual obligations",
+     "You may withdraw your consent at any time by writing to us at the contact details provided below."
+    ]
+   },
+   {
+    "title": "5. Data Sharing & Disclosure",
+    "content": [
+     "Personal information may be shared internally with authorised members of the BVM organising team or affiliated trade bodies strictly for participation assessment, coordination, and event execution purposes.",
+     "We do not disclose personal information to unrelated third parties for marketing or commercial exploitation, except where disclosure is required under applicable law or by a lawful authority."
+    ]
+   },
+   {
+    "title": "6. Data Security",
+    "content": [
+     "BVM adopts reasonable administrative, technical, and organisational security measures to protect personal information against unauthorised access, misuse, alteration, or disclosure. While we endeavour to safeguard data using industry-standard practices, no digital system can guarantee absolute security."
+    ]
+   },
+   {
+    "title": "7. Data Retention",
+    "content": [
+     "Personal information is retained only for as long as reasonably necessary to:",
+     "• Facilitate event-related communications",
+     "• Conduct post-event follow-ups",
+     "• Comply with legal, regulatory, or contractual obligations",
+     "Users may request deletion of their data at any time, subject to legal retention requirements."
+    ]
+   },
+   {
+    "title": "8. User Rights",
+    "content": [
+     "Subject to applicable law, you may:",
+     "• Request access to personal information held by us",
+     "• Request correction of inaccurate or incomplete data",
+     "• Request deletion of personal data",
+     "• Withdraw consent for further communications",
+     "Requests may be made by contacting us through the details provided below."
+    ]
+   },
+   {
+    "title": "9. Cookies & Analytics",
+    "content": [
+     "Our website may use cookies and analytics tools to enhance user experience and evaluate website performance. Users may disable cookies through their browser settings; however, some website features may be affected."
+    ]
+   },
+   {
+    "title": "10. Governing Law & Jurisdiction",
+    "content": [
+     "This Privacy Policy shall be governed by and construed in accordance with the laws of India, including the Information Technology Act, 2000 and applicable rules thereunder.",
+     "Courts at New Delhi shall have exclusive jurisdiction over any disputes arising from this Policy."
+    ]
+   },
+   {
+    "title": "11. Contact Information",
+    "content": [
+     "For privacy-related queries, consent withdrawal, or data requests, please contact:",
+     "Email: contactus@bvm2026.com",
+     "Organisation: Bharatiya Vyapar Mahotsav (BVM) 2026",
+     "Website: https://www.bharatiyavyaparmahotsav.com"
+    ]
+   },
+   {
+    "title": "12. Policy Updates",
+    "content": [
+     "BVM reserves the right to update or modify this Privacy Policy from time to time. Any changes will be published on this page with an updated revision date."
+    ]
+   }
+  ]
+ },
+ "TermsAndConditions": {
+  "title": "Terms & Conditions",
+  "subtitle": "Bharatiya Vyapar Mahotsav (BVM) 2026",
+  "sections": [
+   {
+    "title": "1. Acceptance of Terms",
+    "content": [
+     "By accessing, browsing, registering on, or submitting information through the website, digital platforms, advertisements, forms, or communication channels of Bharatiya Vyapar Mahotsav (BVM) 2026 (\"BVM\", \"we\", \"us\", \"our\"), you agree to be bound by these Terms & Conditions (\"Terms\").",
+     "If you do not agree with these Terms, you are advised not to access or use BVM platforms or services."
+    ]
+   },
+   {
+    "title": "2. Nature of the Event",
+    "content": [
+     "BVM 2026 is a trade, business, and exhibition platform intended to facilitate engagement between exhibitors, sponsors, partners, delegates, and other stakeholders.",
+     "Participation in BVM 2026 is subject to eligibility assessment, availability, and confirmation by the organising authority.",
+     "Submission of an enquiry or expression of interest does not guarantee participation, allocation, sponsorship, or partnership."
+    ]
+   },
+   {
+    "title": "3. Use of Website & Platforms",
+    "content": [
+     "Users agree to:",
+     "• Provide accurate and lawful information",
+     "• Use the platform only for legitimate business purposes",
+     "• Refrain from any activity that may disrupt, harm, or misuse BVM systems or reputation",
+     "BVM reserves the right to restrict or terminate access to its platforms if misuse, misrepresentation, or unlawful activity is suspected."
+    ]
+   },
+   {
+    "title": "4. Registration, Enquiries & Participation",
+    "content": [
+     "All registrations, enquiries, or submissions made through BVM platforms are considered non-binding expressions of interest unless expressly confirmed in writing by BVM.",
+     "BVM reserves the right to:",
+     "• Accept or reject any participation request",
+     "• Modify event formats, dates, venues, or participation categories",
+     "• Allocate or reallocate exhibition space, sponsorships, or benefits",
+     "All commercial terms, if any, shall be governed by separate written agreements."
+    ]
+   },
+   {
+    "title": "5. Payments & Commercial Arrangements",
+    "content": [
+     "Any payments made towards participation, sponsorship, or partnership shall be governed by:",
+     "• The specific commercial agreement executed between parties, and",
+     "• Applicable payment terms communicated officially by BVM",
+     "• Unless otherwise agreed in writing, fees once paid may be non-refundable.",
+     "BVM shall not be responsible for indirect, consequential, or business losses."
+    ]
+   },
+   {
+    "title": "6. Intellectual Property",
+    "content": [
+     "All content, branding, logos, materials, layouts, and communications associated with BVM 2026 are the intellectual property of BVM or its licensors.",
+     "No content may be copied, reproduced, distributed, or used without prior written permission.",
+     "Participants remain responsible for ensuring that their own displayed materials do not infringe third-party intellectual property rights."
+    ]
+   },
+   {
+    "title": "7. Data Protection & Privacy",
+    "content": [
+     "Personal information collected through BVM platforms is processed in accordance with the Privacy Policy published on the BVM website.",
+     "By using BVM platforms, you acknowledge that you have read and understood the Privacy Policy and consent to the collection and use of information as described therein."
+    ]
+   },
+   {
+    "title": "8. Limitation of Liability",
+    "content": [
+     "To the maximum extent permitted by law:",
+     "• BVM shall not be liable for any indirect, incidental, or consequential damages",
+     "• BVM does not guarantee uninterrupted access to digital platforms",
+     "• BVM is not responsible for actions, representations, or disputes between participants",
+     "• Participation in the event is at the participant's own risk."
+    ]
+   },
+   {
+    "title": "9. Force Majeure",
+    "content": [
+     "BVM shall not be liable for failure or delay in performance due to events beyond reasonable control, including but not limited to acts of God, government restrictions, pandemics, natural disasters, or technical failures."
+    ]
+   },
+   {
+    "title": "10. Amendments",
+    "content": [
+     "BVM reserves the right to amend, update, or revise these Terms & Conditions at any time without prior notice.",
+     "Revised Terms shall be effective upon publication on the website."
+    ]
+   },
+   {
+    "title": "11. Governing Law & Jurisdiction",
+    "content": [
+     "These Terms & Conditions shall be governed by and construed in accordance with the laws of India.",
+     "All disputes shall be subject to the exclusive jurisdiction of courts at New Delhi."
+    ]
+   },
+   {
+    "title": "12. Contact Information",
+    "content": [
+     "For queries relating to these Terms & Conditions, please contact:",
+     "Email: contactus@bvm2026.com",
+     "Organisation: Bharatiya Vyapar Mahotsav (BVM) 2026",
+     "Website: https://www.bharatiyavyaparmahotsav.com"
+    ]
+   }
+  ]
+ },
+ "ScreenReaderAccess": {
+  "title": "Screen Reader Access",
+  "subtitle": "Bharatiya Vyapar Mahotsav (BVM) 2026",
+  "compatibleScreenReaders": "Compatible screen readers",
+  "compatibleIntro": "The BVM 2026 website has been tested with, and is compatible with, the screen-reader software listed below. Click any name to visit the official website.",
+  "tableCaption": "Compatible screen reader software with vendor, platform, and cost information.",
+  "tableHeaders": {
+   "screenReader": "Screen Reader",
+   "vendor": "Vendor",
+   "platform": "Platform",
+   "cost": "Cost"
+  },
+  "opensInNewTab": "(opens in new tab)",
+  "disclaimer": "The information is provided for guidance only. BVM 2026 has no affiliation with the listed vendors and does not endorse any particular product.",
+  "needHelpHeading": "Need help accessing this site?",
+  "needHelpBodyPrefix": "If you are unable to access any content on this website or have suggestions on how we can improve the experience, please write to ",
+  "needHelpEmail": "contact@bharatiyavyaparmahotsav.com",
+  "needHelpBodySuffix": ". We will respond within five working days.",
+  "costFree": "Free",
+  "costCommercial": "Commercial",
+  "sections": [
+   {
+    "title": "About this page",
+    "body": [
+     "This page provides information about the screen reader software compatible with the Bharatiya Vyapar Mahotsav (BVM) 2026 website. We have built the site to conform to the Guidelines for Indian Government Websites (GIGW 3.0) and the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA, so that visitors with visual impairments can access the content using assistive technology of their choice."
+    ]
+   },
+   {
+    "title": "Built-in accessibility tools on this site",
+    "body": [
+     "In addition to working with external screen readers, BVM 2026 includes its own accessibility toolbar — accessible from the icon at the top right of every page. The toolbar offers:",
+     "• Adjustable text size (default, large, extra large)",
+     "• High-contrast and light-mode themes",
+     "• Big-cursor and dyslexia-friendly font (OpenDyslexic) options",
+     "• Highlight all links",
+     "• Reduce motion (pauses background video, carousels, marquees)",
+     "• A built-in Read Aloud feature that uses your browser's speech engine to read the page in English or Hindi (where supported)",
+     "All preferences are saved in your browser and applied on every visit."
+    ]
+   },
+   {
+    "title": "Tips for screen reader users",
+    "body": [
+     "• Press Tab from the top of the page to reveal the \"Skip to main content\" link, which jumps past the navigation.",
+     "• Major regions of each page are exposed as landmarks (banner, navigation, main, contentinfo) so you can jump between them using your screen reader's landmark shortcut (for example, D in NVDA, VO + U in VoiceOver).",
+     "• All registration forms are fully labelled and announce required fields, validation errors, and submission status.",
+     "• Decorative images and animations are hidden from assistive technology so they do not interrupt your reading flow."
+    ]
+   }
+  ]
+ },
+ "ThankYouPage": {
+  "titleLine1": "Registration",
+  "titleLine2": "Successful",
+  "message": "Thank you for registering for Bharatiya Vyapar Mahotsav. Our team will connect with you shortly.",
+  "returnHome": "Return to Homepage",
+  "introPrefix": "Your registration for",
+  "introSuffix": "was successful.",
+  "thankYouTitle": "Thank You!"
+ },
+ "ThankYouBusinessDelegate": {
+  "badge": "Business Delegate Registration",
+  "titleLine1": "Registration",
+  "titleLine2": "Successful",
+  "message": "Thank you for registering as a Business Delegate at Bharatiya Vyapar Mahotsav 2026. Our team will connect with you shortly with further details.",
+  "returnHome": "Return to Homepage",
+  "introPrefix": "Your Business Delegate registration for",
+  "introSuffix": "was successful.",
+  "thankYouTitle": "Thank You!"
+ },
+ "ThankYouSpeaker": {
+  "badge": "Speaker Registration",
+  "titleLine1": "Registration",
+  "titleLine2": "Successful",
+  "message": "Thank you for registering as a Speaker at Bharatiya Vyapar Mahotsav 2026. Our team will review your application and connect with you shortly.",
+  "returnHome": "Return to Homepage"
+ },
+ "ThankYouVisitor": {
+  "badge": "Visitor Registration",
+  "titleLine1": "Registration",
+  "titleLine2": "Successful",
+  "message": "Thank you for registering as a Visitor at Bharatiya Vyapar Mahotsav 2026. We look forward to welcoming you at the event!",
+  "returnHome": "Return to Homepage",
+  "introPrefix": "Your Visitor registration for",
+  "introSuffix": "was successful.",
+  "thankYouTitle": "Thank You!"
+ },
+ "BadgeQr": {
+  "title": "Save this QR Pass",
+  "instruction": "Please save this image or download your QR Pass.",
+  "idNoteTitle": "Carry a valid Photo ID",
+  "idNote": "Carry it along with a valid Government-issued Photo ID for seamless entry at the venue.",
+  "confirmationNoteTitle": "Confirmation on Email & WhatsApp",
+  "confirmationNote": "A confirmation email and WhatsApp message containing your registration details and QR Pass will also be sent to your registered email address and mobile number.",
+  "downloadButton": "Download QR Pass",
+  "downloading": "Downloading...",
+  "qrPendingTitle": "Your QR Pass is on its way",
+  "qrPendingNote": "We're generating your QR Pass. It will be sent to your registered email address and mobile number shortly."
+ }
+}
